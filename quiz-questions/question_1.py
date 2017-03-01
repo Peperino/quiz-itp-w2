@@ -21,3 +21,6 @@ def question_1():
     """
     # Return the CORRECT value of `c`
     pass
+#test_scope(5) returns a=11 + b=5 + c=7 === 23
+
+#c return c=7 + test_scope(5)=23 === 30 Final answer
